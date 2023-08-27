@@ -1,0 +1,5 @@
+name: SpringSpigotExample
+version: 1.0
+main: cchuyong.springspigot_example.SpringSpigotExample
+depend:
+  - SpigotSpring
